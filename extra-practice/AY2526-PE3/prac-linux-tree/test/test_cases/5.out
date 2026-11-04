@@ -1,0 +1,8 @@
+.
+├── etc
+│   └── slurm
+├── usr
+│   └── bin
+│       └── bash
+└── var
+    └── log

@@ -1,0 +1,12 @@
+**/*.synctex.gz
+**/*.aux
+**/*.fdb_latexmk
+**/*.fls
+**/*.log
+writeup/*.out
+**/*.toc
+compile_flags.txt
+*.o
+*.d
+permutations
+formula

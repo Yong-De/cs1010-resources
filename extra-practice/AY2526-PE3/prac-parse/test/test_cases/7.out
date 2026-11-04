@@ -1,0 +1,5 @@
+Return type: [char *]
+Name : [bar]
+	Parameter 0 : [char *]
+	Parameter 1 : [int *]
+	Parameter 2 : [char **]

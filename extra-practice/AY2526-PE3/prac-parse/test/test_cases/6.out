@@ -1,0 +1,4 @@
+Return type: [void]
+Name : [foo]
+	Parameter 0 : [int]
+	Parameter 1 : [char *]

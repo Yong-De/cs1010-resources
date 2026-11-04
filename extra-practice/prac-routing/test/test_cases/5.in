@@ -1,0 +1,9 @@
+3
+us-east-1
+us-west-2
+eu-east-3
+us-east-1:eu-east-3
+eu-east-3:us-east-1,us-west-2
+us-west-2:us-east-1,us-west-2,eu-east-3
+;
+0
